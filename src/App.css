@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.formWrapper input {
+  padding: 0.5rem;
+  /* border-radius: 5px; */
+  border-bottom: 1px solid #a7bcff;
+  outline: none;
+}
+.formWrapper input:focus {
+  border-bottom: 1px solid #000;
+  
+}
+
+/* .sidebar {
+  border-right: 1px solid #003cff;
+} */
+
+.search {
+  border-bottom: 1px solid grey;
 }
